@@ -23,6 +23,14 @@ Evaluation: Assesses the performance of the dynamic pricing strategy based on re
 Dataset
 The project uses a dataset ideal for creating a dynamic pricing strategy. You can download the dataset here for further exploration and experimentation.
 
+A Snippet Of Code Outputs 
+![newplot-2](https://github.com/user-attachments/assets/759c13e2-fcf6-491b-b12d-4bb4c7b5e7d2)
+![newplot-4](https://github.com/user-attachments/assets/5c792533-72ca-4938-8ea8-e535d6095c16)
+![newplot-6](https://github.com/user-attachments/assets/90c49b37-16a4-42a5-a18d-6188e09abe52)
+
+
+
+
 Libraries Used
 Pandas, Numpy: Data manipulation and analysis
 Scikit-Learn: Machine learning algorithms
